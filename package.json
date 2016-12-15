@@ -1,0 +1,26 @@
+{
+  "name": "newhire",
+  "version": "1.0.0",
+  "description": "A tool for setting up accounts for newly arrived members of organizations",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mika0x56/newhire.git"
+  },
+  "keywords": [
+    "new",
+    "account",
+    "new",
+    "employees",
+    "organization"
+  ],
+  "author": "Mika Wikman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mika0x56/newhire/issues"
+  },
+  "homepage": "https://github.com/mika0x56/newhire#readme"
+}
