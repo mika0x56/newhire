@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/mika0x56/newhire/issues"
   },
-  "homepage": "https://github.com/mika0x56/newhire#readme"
+  "homepage": "https://github.com/mika0x56/newhire#readme",
+  "devDependencies": {
+    "node-trello": "^1.1.2"
+  }
 }
