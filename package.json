@@ -25,5 +25,8 @@
   "homepage": "https://github.com/mika0x56/newhire#readme",
   "devDependencies": {
     "node-trello": "^1.1.2"
+  },
+  "engines": { 
+      "node" : ">=6.9.0"
   }
 }
